@@ -1,0 +1,348 @@
+/* author 
+
+Name: Ahmed Shahriar Masud;
+email:shahriarmasud5@gmail.com;
+
+*/
+
+/*
+
+====Index===
+
+1.Header
+2. hero
+3.Fusce at
+4. Facilisis
+5. Ante Donec
+6. Blandit
+7. Placerat
+
+
+*/
+
+/* Globbal Css */
+
+.{
+	margin: 0px;
+	padding: 0px;
+
+
+}
+
+body{
+
+	background: url(../img/bacground.png) no-repeat center top;
+ 	background-size: cover;
+ 	text-align: center;
+}
+
+
+
+
+
+/* Globbal Css */
+
+
+
+/* Header */
+
+ header{
+ 	padding: 40px 0px ;
+
+ }
+
+.fa-1x {
+font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+cursor: pointer;
+}
+.dark-blue-text {
+color: #0A38F5;
+}
+.dark-pink-text {
+color: #AC003A;
+}
+.dark-amber-text {
+color: #ff6f00;
+}
+.dark-teal-text {
+color: #004d40;
+}
+
+
+.hero{
+
+
+}
+
+.hero h2{
+	color: white;
+	text-align: center;
+
+
+}
+
+.hero p{
+ 	color: white;
+	text-align: center;
+}
+
+.btn-join{
+
+	display: block;
+	color: white;
+	background: transparent;
+	border: 1px solid black;
+	padding: 10px 15px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+
+.product{
+
+}
+
+.product h2{
+	color: white;
+	text-align: left;
+
+
+}
+
+.product p{
+ 	color: white;
+	text-align: left;
+}
+
+.btn-two{
+
+	border-radius: 40px;
+    background-color: transparent;
+    color: white;
+    padding: 14px 31px;
+    border: 1px solid #2a5da3;
+    font-size: 16px;
+    margin-top: 35px;
+}
+
+.btn-one{
+
+	border-radius: 40px;
+    background-color: transparent;
+    color: white;
+    padding: 14px 31px;
+    border: 1px solid #2a5da3;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+
+.head-text{
+	padding-top: 180px;
+}
+
+.head-text h2{
+	color: white;
+	
+}
+
+.head-text p{
+	color: #2a5da3;
+}
+
+.hero{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.hero-img {
+	
+}
+
+.hero-img:hover {
+	transform: scale(1.5);
+}
+
+
+.headphone-section{
+
+}
+
+.head-phone{
+
+	
+}
+.headphone-text{
+	text-align: left;
+	color: white;
+	padding: 0px 0px 0px 30px;
+
+	
+}
+
+.mobile-head{
+
+	padding-top: 100px;
+	padding-bottom: 100px;
+
+}
+
+.mobile-low{
+
+}
+
+.mobile-head h2{
+	color: white;
+
+}
+
+.mobile-low-img{
+	transform: scale(1.2);
+	margin-top: -50px;
+}
+.mobile-low-text{
+	color: white;
+	text-align: left;
+	padding: 0px 20px 50px 10px;
+}
+.mobile-low-text p{
+	color: #66778e;
+	font-size: 14px;
+}
+.mobile-low-text i{
+	color: #ff3334;
+	font-size: 35px;
+}
+
+
+.head-cont{
+	text-align: center;
+	color: white;
+	padding: 100px 0px;
+}
+.head-cont p{
+	color: #2a5da3;
+}
+.coeluso{
+	color: #2a5da3;
+}
+
+
+
+
+.mockup{
+
+
+}
+
+.mockup-text{
+	padding-top: 120px;
+	padding-bottom: 200px;
+	color: white;
+	text-align: left;
+}
+.mockup-text h5{
+	color: white;
+	font-size: 26px;
+	padding-bottom: 30px;
+}
+.mockup-text p{
+	color: #66778e;
+	font-size: 16px;
+}
+.mockup-text i{
+	color: #ff3334;
+	font-size: 35px;
+	padding-bottom: 30px;
+}
+
+
+
+.slider{
+	background:url(../img/slider.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 10px 0px;
+}
+
+.carousel-item img{
+	height: 10%;
+	width: 10%;
+}
+.carousel-item{
+    text-align: center;
+    min-height: 200px;
+    padding:10%;
+    color: white; /* Prevent carousel from being distorted if for some reason image doesn't load */
+}
+.car-pep-ic{
+	font-size: 40px;
+	padding-top: 30px;
+	padding-left: 10px: 	
+}
+.car-peop-des{
+	font-size: 14px;
+	color: #213a61;
+	font-weight: 700;
+}
+.carousel-indicators li{
+	width: 10px;
+    height: 10px;
+    border-radius: 10px;
+}
+.download{
+	padding-top: 100px;
+}
+
+.download-text{
+	text-align: center;
+	color: white;
+	padding: 40px 0px;
+}
+
+.download-text p{
+	text-align: center;
+	color: #66778e;
+	padding: 10px 0px;
+}
+
+.download-text img{
+	
+}
+
+
+.foot-sp span{
+	display: block;
+	border-bottom: 1px solid;
+	border-color: #12233f;
+	padding-bottom: 20px;
+}
+
+.footer-left li{
+	list-style: none;
+	display: inline;
+	padding:0px 5px;
+	color: #14396a;	
+	font-size: 14px;
+	font-weight: 700;
+	text-align: left;
+}
+.footer-right{
+	color: #14396a;	
+	text-align: right;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.foot{
+	display: block;
+	width: 100%;
+	border: 0.8px solid #14396a;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 30px;
+}
+
+	

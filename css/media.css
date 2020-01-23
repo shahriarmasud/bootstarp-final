@@ -1,0 +1,211 @@
+@media (min-width:0) and (max-width:500px){
+
+    .mac {   
+     top: 38%;
+    right: 3px;
+    position: relative;
+    }
+    .card {
+    margin: 0 auto;
+}
+
+.join-text h2 {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 16px;}
+    
+    img.img-fluid {
+    margin: 0 auto;
+    display: block;
+    padding: 13px;
+}
+
+.fa.fa-quote-right {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.fa.fa-quote-left {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+
+.mockup-text h5{
+    color: white;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.mockup-text p{
+    color: #66778e;
+    font-size: 10px;
+}
+.mockup-text i{
+    color: #ff3334;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+.mockup-text{
+    padding: 0px 10px;
+}
+
+}
+
+@media (min-width:500.01px) and (max-width:768px){
+
+    .mac {   
+     top: 38%;
+    right: 3px;
+    position: relative;
+    }
+    .card {
+    margin: 0 auto;
+}
+
+.join-text h2 {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 16px;}
+
+    img.img-fluid {
+    margin: 0 auto;
+    display: block;
+    padding: 13px;
+}
+.fa.fa-quote-right {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.fa.fa-quote-left {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.mockup-text h5{
+    color: white;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.mockup-text p{
+    color: #66778e;
+    font-size: 10px;
+    
+}
+
+.mockup-text i{
+    color: #ff3334;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+.mockup-text{
+    padding: 0px 10px;
+}
+   
+}
+@media (min-width:768.01px) and (max-width:1023px){
+
+    .mac {   
+     top: 38%;
+    right: 3px;
+    position: relative;
+    }
+    .card {
+    margin: 0 auto;
+}
+
+.join-text h2 {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 16px;}
+    
+img.img-fluid {
+    margin: 0 auto;
+    display: block;
+    padding: 13px;
+}
+.fa.fa-quote-right {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.fa.fa-quote-left {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.mockup-text h5{
+    color: white;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.mockup-text p{
+    color: #66778e;
+    font-size: 10px;
+   
+}
+.mockup-text i{
+    color: #ff3334;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+.mockup-text{
+    padding: 0px 10px;
+}
+}
+
+@media (min-width:1023.01px) and (max-width:1224px){
+
+    .mac {   
+     top: 38%;
+    right: 3px;
+    position: relative;
+    }
+    .card {
+    margin: 0 auto;
+}
+
+.join-text h2 {
+    color: white;
+    text-align: left;
+    font-size: 18px;
+    padding-bottom: 16px;}
+
+    img.img-fluid {
+    margin: 0 auto;
+    display: block;
+    padding: 13px;
+}
+.fa.fa-quote-right {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.fa.fa-quote-left {
+    color: #ed145b;
+    font-size: 5px;
+    padding-top: 10px;
+}
+.mockup-text h5{
+    color: white;
+    font-size: 16px;
+    padding-bottom: 30px;
+}
+.mockup-text p{
+    color: #66778e;
+    font-size: 10px;
+   
+}
+.mockup-text i{
+    color: #ff3334;
+    font-size: 15px;
+    padding-bottom: 30px;
+}
+.mockup-text{
+    padding: 0px 10px;
+}
+    
+}
